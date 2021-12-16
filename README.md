@@ -1,5 +1,5 @@
 # Drug Classifier
-Pengaplikasian untuk Drug Classifier dengan Streamlit
+Pengaplikasian untuk Drug Classifier dengan Streamlit\n
 _repository for simple Machine Learning Project with Streamlit_
 
 dataset used:
