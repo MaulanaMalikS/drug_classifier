@@ -6,8 +6,8 @@ import streamlit as st
 import pickle
 
 # Memuat model drug_classifier
-with open('drug_classifier.pkl', 'rb') as file:
-    model = pickle.load(file)
+with open('/app/drug_classifier/drug_classifier.pkl', 'rb') as file:
+    model = pickle.load(file) #cek
 
 # Tampilan judul dan kata pengantar
 st.write("""
