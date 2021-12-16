@@ -1,4 +1,2 @@
 scikit-learn
 pickle
-pandas
-numpy
